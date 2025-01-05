@@ -2,7 +2,7 @@
 
 This project demonstrates the creation of an ETL (Extract, Transform, Load) pipeline using AWS services to process and analyze Spotify data. The pipeline extracts data from CSV files, transforms the data by performing joins and merging operations, and loads the final dataset into AWS Athena for querying and visualization.
 
-![AWS_Glue_ETL_architecture](https://github.com/user-attachments/assets/cc58fb15-bfae-451d-9de5-694529ba5939)
+![AWS_Glue_ETL_architecture](https://github.com/user-attachments/assets/39d8ef1d-4f9a-4b3d-9924-2606800373cf)
 
 
 ---
